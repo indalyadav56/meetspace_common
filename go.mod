@@ -1,4 +1,4 @@
-module github.com/indalyadav56/common-service
+module github.com/indalyadav56/meetspace-common
 
 go 1.23.1
 
